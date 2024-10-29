@@ -15,11 +15,11 @@ Hi!  I am Era! I want to be a Product Manager. I think one of the skills you req
 
 # What I hope to learn
 
-1. Effectively Communicate Data Insights: Learn how to present complex data in a way that is understandable and engaging for any audience. #1
-2. Data Visualization Techniques: Gain skills in selecting the right charts, graphs, and visual elements to highlight key data points. #2
-3. Storytelling with Data: Understand how to craft a narrative around data to emphasize important insights and make the information memorable. #3
-4. Avoiding Misleading Visualizations: Learn how to design ethical and accurate visualizations that convey data truthfully. #4
-5. Using Context to Enhance Understanding: Explore ways to add context to data visuals, making sure viewers interpret the data accurately and meaningfully. #5
+1. Effectively Communicate Data Insights: Learn how to present complex data in a way that is understandable and engaging for any audience. 
+2. Data Visualization Techniques: Gain skills in selecting the right charts, graphs, and visual elements to highlight key data points. 
+3. Storytelling with Data: Understand how to craft a narrative around data to emphasize important insights and make the information memorable. 
+4. Avoiding Misleading Visualizations: Learn how to design ethical and accurate visualizations that convey data truthfully. 
+5. Using Context to Enhance Understanding: Explore ways to add context to data visuals, making sure viewers interpret the data accurately and meaningfully. 
 
 # Portfolio
 
