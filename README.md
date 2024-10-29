@@ -11,20 +11,15 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I am Era! I want to be a Product Manager. I think one of the skills you require as a Product Manager is story telling. And what's even better is if you can back it up with data. So, here I am trying to learn how to tell stories with data!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Effectively Communicate Data Insights: Learn how to present complex data in a way that is understandable and engaging for any audience. #1
+2. Data Visualization Techniques: Gain skills in selecting the right charts, graphs, and visual elements to highlight key data points. #2
+3. Storytelling with Data: Understand how to craft a narrative around data to emphasize important insights and make the information memorable. #3
+4. Avoiding Misleading Visualizations: Learn how to design ethical and accurate visualizations that convey data truthfully. #4
+5. Using Context to Enhance Understanding: Explore ways to add context to data visuals, making sure viewers interpret the data accurately and meaningfully. #5
 
 # Portfolio
 
