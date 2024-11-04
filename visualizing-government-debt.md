@@ -7,7 +7,9 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
+![image](https://github.com/user-attachments/assets/0427bb31-1ddc-4d14-9ffe-acaeb6e2317f)
+
+The image shows the General government debt for various countries for the year 2023.
 
 ## Working with Tableau
 
