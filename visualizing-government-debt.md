@@ -76,12 +76,6 @@ This line chart presents government debt as a percentage of GDP over time (1995�
 
 This annotation help provide context for the spikes in debt, allowing viewers to understand the external events that influenced these trends.
 
-## Insights and Conclusions
-
-This visualization demonstrates how different countries approach debt management and the impact of global events on government borrowing. Countries like **Japan** have sustained high debt levels without significant instability, largely due to domestic factors like low interest rates and strong internal demand for debt. In contrast, **Estonia’s low debt levels** suggest a cautious approach, with the government avoiding large-scale borrowing. **The USA and the UK** show similar patterns, with debt levels rising notably during economic crises, reflecting active fiscal responses.
-
-By comparing these countries, this visualization provides a global perspective on government debt, highlighting the resilience or vulnerability of economies to high debt and the impact of key economic events on fiscal policies.
-
 ---
 
 <div class='tableauPlaceholder' id='viz1730763491533' style='position: relative'><noscript><a href='#'><img alt='Government Debt Trends Over Time: USA vs. Major Global EconomiesSource: OECD ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USAvsOthers&#47;USAvs_MajorGlobalEconomies&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='USAvsOthers&#47;USAvs_MajorGlobalEconomies' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;US&#47;USAvsOthers&#47;USAvs_MajorGlobalEconomies&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
@@ -93,7 +87,16 @@ By comparing these countries, this visualization provides a global perspective o
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 This chart was created in **Tableau** using data from [data source, OECD ].
+
+## Insights and Conclusions
+
+This visualization demonstrates how different countries approach debt management and the impact of global events on government borrowing. Countries like **Japan** have sustained high debt levels without significant instability, largely due to domestic factors like low interest rates and strong internal demand for debt. In contrast, **Estonia’s low debt levels** suggest a cautious approach, with the government avoiding large-scale borrowing. **The USA and the UK** show similar patterns, with debt levels rising notably during economic crises, reflecting active fiscal responses.
+
+By comparing these countries, this visualization provides a global perspective on government debt, highlighting the resilience or vulnerability of economies to high debt and the impact of key economic events on fiscal policies.
+
+
 
 
 
