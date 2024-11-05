@@ -1,19 +1,55 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
+# Global Government Debt Analysis: Insights from OECD Data
 
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
+This portfolio page presents an analysis of government debt-to-GDP ratios across various countries, using data from the Organization for Economic Co-operation and Development (OECD). Through interactive and static visualizations, we explore trends in government debt levels, comparing the fiscal policies of different nations and highlighting their responses to significant economic events.
 
-## Part one: Working with web-based visualization tools and data
+The analysis is divided into three parts, each utilizing different visualization techniques and tools to draw insights from the OECD dataset:
+
+1. **Part 1: Web-Based Visualization and Data Exploration**  
+   Using the OECD’s online data visualization tools, we explore government debt levels for selected countries in a recent year, creating an interactive bar chart. This chart provides a snapshot of debt-to-GDP ratios across countries, helping to understand which nations carry high or low debt levels relative to their economic output.
+
+2. **Part 2: Highlight Table (Heatmap) in Tableau**  
+   A heatmap created in Tableau allows for an in-depth comparison of government debt levels across multiple countries over time. The color gradient highlights countries with high and low debt-to-GDP ratios, offering a straightforward way to compare debt levels across a broad set of countries and observe shifts over time.
+
+3. **Part 3: Debt Trends Line Chart in Tableau**  
+   This line chart focuses on selected countries, providing a continuous view of debt trends from 1995 to 2019. By showing how debt levels change over time, this chart reveals how different countries responded to global economic crises, offering insights into their fiscal policies and economic resilience.
+
+Together, these visualizations provide a comprehensive view of global government debt trends, highlighting the diversity in fiscal policies and economic responses across different nations.
+
+# Part 1: Working with web-based visualization tools and data
 
 ![image](https://github.com/user-attachments/assets/0427bb31-1ddc-4d14-9ffe-acaeb6e2317f)
 
 The image shows the General government debt for various countries for the year 2023.
 
-## Working with Tableau
 
+<!--
 _A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
+-->
+
+# Part 2: Government Debt Highlight Table
+
+## Visualization Overview
+
+This highlight table (heatmap) provides a comparison of government debt as a percentage of GDP across multiple countries over time, specifically from 1995 to 2019. Each cell represents the debt-to-GDP ratio for a given country and year, with color intensities indicating the magnitude of debt. Countries with higher debt-to-GDP ratios are highlighted in shades of orange, while those with lower ratios are in shades of blue, making it easy to spot trends and extremes in government debt across different economies.
+
+## Story Behind the Data
+
+The highlight table provides a powerful visual tool to understand the **distribution and concentration** of debt-to-GDP ratios across nations. Key insights from this visualization include:
+
+- **Countries with Persistent High Debt**: Japan (JPN) and Italy (ITA) consistently have high debt-to-GDP ratios, shown in deep orange, indicating a reliance on government debt over time.
+- **Countries with Low Debt**: Countries like Estonia (EST), Mexico (MEX), and Turkey (TUR) are represented in deep blue, indicating low levels of government debt compared to GDP.
+
+This visualization provides a quick overview of debt levels and allows viewers to identify patterns at a glance, showing how different countries manage their government debt over time and highlighting the impact of global events.
+
+## Chart Description
+
+- **Columns**: Each column represents a year, showing data from 1995 to 2009.
+- **Rows**: Each row represents a country.
+- **Color Scheme**: An orange-blue diverging color scheme is used, with orange representing debt levels above 100% of GDP and blue indicating levels below 100%. The more intense the color, the further the debt level is from the 100% threshold, either above or below.
+
+---
 
 <div class='tableauPlaceholder' id='viz1730759721637' style='position: relative'><noscript><a href='#'><img alt='General government debt Source: OECD ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Partb-GDP&#47;Generalgovernmentdebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Partb-GDP&#47;Generalgovernmentdebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Partb-GDP&#47;Generalgovernmentdebt&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
@@ -24,6 +60,8 @@ _A reminder that to get the Tableau visualization to render correctly on Github,
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+Source: **OECD**. This data visualization was created using **Tableau**.
+
 ## Part three: create your own visualization
 
 _Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
@@ -32,7 +70,7 @@ _Summarize in a paragraph or two about the different methods of visualization, a
 
 _It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
 
-# Government Debt Trends Over Time: USA vs. Major Global Economies
+# Part 3: Government Debt Trends Over Time: USA vs. Major Global Economies
 
 ## Visualization Overview
 
@@ -95,6 +133,20 @@ This chart was created in **Tableau** using data from [data source, OECD ].
 This visualization demonstrates how different countries approach debt management and the impact of global events on government borrowing. Countries like **Japan** have sustained high debt levels without significant instability, largely due to domestic factors like low interest rates and strong internal demand for debt. In contrast, **Estonia’s low debt levels** suggest a cautious approach, with the government avoiding large-scale borrowing. **The USA and the UK** show similar patterns, with debt levels rising notably during economic crises, reflecting active fiscal responses.
 
 By comparing these countries, this visualization provides a global perspective on government debt, highlighting the resilience or vulnerability of economies to high debt and the impact of key economic events on fiscal policies.
+
+## Comparison with Heat Map in Part 2
+
+While the highlight table (heatmap) provides a quick way to scan and compare debt levels across countries in specific years, the line chart in Part 3 offers a more detailed, continuous view of debt trends over time for selected countries.
+
+- **Highlight Table (Heatmap)**:
+  - **Strengths**: Allows for easy comparison across many countries in a compact format. The color intensity helps quickly identify which countries have high or low debt-to-GDP ratios at specific points in time.
+  - **Limitations**: It’s less effective at showing continuous trends or how debt levels evolve smoothly over time. The discrete nature of cells limits the viewer’s ability to trace changes within individual countries across all years.
+
+- **Line Chart (from Part 3)**:
+  - **Strengths**: The line chart in Part 3 provides a clearer view of each country’s trend over time. It’s ideal for tracking changes in debt and highlighting responses to specific economic events like the 2008 financial crisis.
+  - **Limitations**: The line chart is more suitable for a smaller selection of countries due to potential clutter when adding too many lines, whereas the highlight table can display many countries without becoming overwhelming.
+
+In summary, both visualizations serve unique purposes. The highlight table is excellent for comparing a large set of countries at a glance, while the line chart allows for in-depth analysis of trends in specific countries over time. Using both together provides a comprehensive perspective on government debt across nations.
 
 
 
