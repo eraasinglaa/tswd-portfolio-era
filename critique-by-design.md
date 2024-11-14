@@ -12,7 +12,8 @@ Below, you will find a summary of my redesign process, user feedback, and final 
 
 For this project, I selected a data visualization on the **total paid vacation days worldwide** created by Resume.io. The original visualization uses a world map to illustrate the total paid vacation days for each country, combining paid leave days and public holidays. I chose this visualization because, although visually engaging, it presents challenges in readability and accuracy that I believed could be improved upon. You can view the original visualization [here](https://resume.io/blog/which-country-gets-the-most-paid-vacation-days) or in the screenshot below:
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/11fb8701-a639-4cf0-9bb2-987c1a3fdab0">
-***
+
+---
 
 ## Step two: Critique Using Stephen Few’s Effectiveness Profile
 Using Stephen Few's criteria, I evaluated the original visualization across seven dimensions: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement. My main findings were:
@@ -45,7 +46,9 @@ Creating this prototype helped me validate that a bar chart could facilitate bet
 
 *Below is an early sketch of my revised layout.*
 <img width="1409" alt="image" src="https://github.com/user-attachments/assets/70e60c68-b3d3-4661-824a-ccf46d819146">
-***
+
+---
+
 This sketch laid the groundwork for the final dashboard in Tableau, where I combined the bar chart with an interactive map for a more comprehensive view.
 
 ## Step four: User Feedback
