@@ -1,11 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Redesigning a Data Visualization: Paid Vacation Days by Country
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+In this project, I undertook an assignment to analyze and improve a data visualization showing the total paid vacation days across countries. The original visualization, sourced from Resume.io, uses a world map to highlight differences in paid leave policies globally. My goal was to critique this visualization based on established data visualization principles, identify areas for improvement, and create a redesigned version using Tableau.
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+This write-up documents the entire process, from the initial critique using Stephen Few's Data Visualization Effectiveness Profile to the development of a redesigned visualization that emphasizes clarity, comparability, and user interactivity. By combining a choropleth map and a bar chart, my redesigned dashboard provides an engaging yet informative way to explore vacation policies by country, with clear distinctions between paid leave days and public holidays.
+
+Below, you will find a summary of my redesign process, user feedback, and final visualizations, including insights into how the redesign better serves its intended audience.
 
 ## Step one: The Original Visualization
 
@@ -21,15 +22,31 @@ Using Stephen Few's criteria, I evaluated the original visualization across seve
 
 **Insights Gained**: Based on this critique, I planned to simplify the color scheme, reduce annotation clutter, and add a secondary visualization format (e.g., bar chart) to clarify quantitative comparisons across countries.
 
-## Step three: Sketching and Wireframing the Solution
-After identifying areas for improvement, I sketched this layout in Excel to explore alternative ways of presenting the data. Since, it's just a rouh sketch I knew that in Tableau I could make it lot better. It was just to get the glimpse if it could offer better quantitative insights. Key ideas included:
-- Replacing the world map with a bar chart to facilitate clearer comparisons. I really liked how I could easily order the countries based on the number of total paid vacation days.
-- Using a cleaner color scheme with distinct intervals to make differences more visible.
-- Providing contextual information through a sidebar with regional summaries and insights.
+## Step Three: Sketching and Wireframing the Solution
+
+After identifying key areas for improvement in the original visualization, I created a rough sketch in Excel to explore alternative ways of presenting the data. This initial sketch was a simple prototype to test whether a more quantitative approach, like a bar chart, could better convey the differences in total paid vacation days across countries. Although I knew the final design in Tableau would be more refined, this sketch provided a glimpse into how the data could be organized more effectively.
+
+### Key Ideas and Rationale
+
+1. **Replacing the World Map with a Bar Chart**:
+   - The bar chart format immediately allows for a clearer comparison of countries by visually ranking them based on total paid vacation days.
+   - By ordering countries from highest to lowest vacation days, viewers can quickly identify which nations offer the most generous paid leave. This sequential arrangement also reduces the cognitive load of comparing scattered data points across a map.
+
+2. **Using a Cleaner Color Scheme**:
+   - I opted for a simplified color scheme with distinct intervals in the Excel sketch to make the differences between countries more visible.
+   - This choice helps in distinguishing countries with similar vacation day counts and avoids the visual confusion often caused by subtle gradients on maps.
+
+3. **Adding Contextual Information**:
+   - Although not fully realized in the sketch, I considered using a sidebar or supplementary notes in the final design to provide regional summaries and insights. This additional context could help viewers understand why certain regions have high or low vacation days, linking it to cultural or policy factors.
+
+### Insights Gained from the Sketch
+
+Creating this prototype helped me validate that a bar chart could facilitate better quantitative insights than a map alone. The sketch demonstrated how a straightforward, ranked bar chart can highlight comparative data more effectively, setting the foundation for an improved Tableau dashboard. With this basic structure in mind, I moved forward to implement a more interactive, polished version in Tableau, incorporating the feedback from this initial test.
 
 *Below is an early sketch of my revised layout.*
-<img width="1415" alt="image" src="https://github.com/user-attachments/assets/2a994b02-c438-4a48-a630-2ce1e6c5490f">
+<img width="1409" alt="image" src="https://github.com/user-attachments/assets/70e60c68-b3d3-4661-824a-ccf46d819146">
 ---
+This sketch laid the groundwork for the final dashboard in Tableau, where I combined the bar chart with an interactive map for a more comprehensive view.
 
 ## Step four: User Feedback
 
@@ -122,9 +139,8 @@ My goal with the redesign was to address key weaknesses in the original visualiz
 - **User Interactivity**:
   - Viewers can click on a country in the map to highlight corresponding data in the bar chart. This interactivity helps guide users through the data without overwhelming them with excessive text or annotations.
 
-## **"Global Paid Vacation Days: Country Comparisons by Leave and Public Holidays"**
-
 *Below is the final redesigned visualization:*
+## **"Global Paid Vacation Days: Country Comparisons by Leave and Public Holidays"**
 <div class='tableauPlaceholder' id='viz1731557218070' style='position: relative'><noscript><a href='#'><img alt='Countries Vacation Days ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Va&#47;VacationDaysbyCountry_17315555578710&#47;CountriesVacationDays&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='VacationDaysbyCountry_17315555578710&#47;CountriesVacationDays' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Va&#47;VacationDaysbyCountry_17315555578710&#47;CountriesVacationDays&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1731557218070');
