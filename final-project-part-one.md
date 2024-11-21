@@ -1,6 +1,6 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://eraasinglaa.github.io/tswd-portfolio-era/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# ”Global Minds, American Dreams: The Journey of International Students in the USA."
+# Global Minds, American Dreams: The Journey of International Students in the USA.
 
 ## One-Line Summary:
 "Exploring how international students shape U.S. education and economy while navigating challenges and opportunities for a brighter global future."
@@ -38,18 +38,29 @@ This story is crucial for educators, policymakers, and communities as it sheds l
 - Projections for international student enrollment.
 - Potential impacts on U.S. higher education and economy.
 
-### VII. Call to Action
-- Suggestions for policymakers to support international education.
-- Ways for universities to enhance the international student experience.
-- How individuals can promote cultural exchange and global understanding.
+Here's the story arc revealing how listeners might feel as I go through the story:
+<img width="1130" alt="image" src="https://github.com/user-attachments/assets/c757bb7a-0a3e-4315-b219-23bc592ee4c0">
+
+## Call to Action
+
+1. **For Policymakers:**
+   - Implement supportive visa policies to facilitate international student enrollment.
+   - Invest in programs promoting cultural exchange and diversity.
+
+2. **For Universities:**
+   - Develop targeted recruitment strategies for a diverse international student pool.
+   - Enhance support services to improve the academic and social experience.
+
+3. **For Individuals:**
+   - Engage with international students to foster cross-cultural understanding.
+   - Advocate for policies that support global education initiatives.
 
 ## Initial Sketches
 
-![Sketch 1](<img width="839" alt="image" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">)
-![Sketch 2](path-to-sketch2)
-![Sketch 3](path-to-sketch3)
-![Sketch 4](path-to-sketch4)
-![Sketch 5](path-to-sketch5)
+Sketch 1: <img width="839" alt="image" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">
+Sketch 2: <img width="839" alt="image" src="https://github.com/user-attachments/assets/6ada55ea-8729-483a-9f44-8cc1ed252f8c">
+Sketch 3: <img width="1029" alt="image" src="https://github.com/user-attachments/assets/e454ba59-5c94-45fa-a583-f9e011541e29">
+Sketch 4: <img width="1029" alt="image" src="https://github.com/user-attachments/assets/d8407f05-d018-408e-91f4-84025abb0da3">
 
 ## The Data
 
@@ -75,18 +86,3 @@ To complete this project:
 - **Medium**: A web-based presentation with interactive features to engage viewers.
 
 ---
-
-### Call to Action
-
-1. **For Policymakers:**
-   - Implement supportive visa policies to facilitate international student enrollment.
-   - Invest in programs promoting cultural exchange and diversity.
-
-2. **For Universities:**
-   - Develop targeted recruitment strategies for a diverse international student pool.
-   - Enhance support services to improve the academic and social experience.
-
-3. **For Individuals:**
-   - Engage with international students to foster cross-cultural understanding.
-   - Advocate for policies that support global education initiatives.
-
