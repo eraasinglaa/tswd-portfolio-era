@@ -1,36 +1,92 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+# ”Global Minds, American Dreams: The Journey of International Students in the USA."
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+## One-Line Summary:
+"Exploring how international students shape U.S. education and economy while navigating challenges and opportunities for a brighter global future."
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+## Project Story Description:
+This project explores the evolving landscape of international students in the United States, highlighting their significant contributions to American higher education and the economy. With data-driven insights, we will trace enrollment trends over the past decade, identify key countries of origin, and analyze the economic impact across states. By examining factors influencing student mobility and university strategies to attract international talent, this project aims to provide a comprehensive understanding of the current challenges and future opportunities in international education. Through compelling visualizations, we'll reveal how international students enrich U.S. campuses and communities, fostering cultural exchange and global understanding.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+## Why Should Someone Listen to This Story?
+This story is crucial for educators, policymakers, and communities as it sheds light on the vital role international students play in enriching U.S. academic institutions and driving economic growth. Understanding these dynamics helps stakeholders make informed decisions to support international education policies that enhance cultural diversity and global competitiveness. As global mobility faces new challenges, this narrative offers valuable insights into fostering an inclusive and thriving educational environment.
 
-Text here...
+## Outline
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+### I. Introduction
+- Brief overview of international student trends in the USA.
+- Importance of international students to U.S. higher education and economy.
 
-Text here...
+### II. Historical Context
+- Trends in international student enrollment over the past decade.
+- Major events or policies that have influenced these trends.
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+### III. Current Landscape
+- Latest statistics on international student enrollment.
+- Top sending countries and shifts in their rankings.
+- Distribution across academic levels and fields of study.
 
-Text here...
+### IV. Economic Impact
+- Contribution to the U.S. economy.
+- Impact on specific states or regions.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+### V. Challenges and Opportunities
+- Factors influencing international student mobility (e.g., visa policies, global events).
+- Efforts by universities to attract and retain international students.
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+### VI. Future Outlook
+- Projections for international student enrollment.
+- Potential impacts on U.S. higher education and economy.
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+### VII. Call to Action
+- Suggestions for policymakers to support international education.
+- Ways for universities to enhance the international student experience.
+- How individuals can promote cultural exchange and global understanding.
 
-Text here...
+## Initial Sketches
+
+![Sketch 1](<img width="839" alt="image" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">)
+![Sketch 2](path-to-sketch2)
+![Sketch 3](path-to-sketch3)
+![Sketch 4](path-to-sketch4)
+![Sketch 5](path-to-sketch5)
+
+## The Data
+
+This project relies on reliable and publicly available datasets:
+
+| Name                          | URL                                                                                      | Description                                                                 |
+|-------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| Open Doors Enrollment Trends  | [Link](https://opendoorsdata.org/data/international-students/enrollment-trends/)         | Data on historical and current international student enrollment trends.     |
+| Open Doors Places of Origin   | [Link](https://opendoorsdata.org/data/international-students/all-places-of-origin/)      | Information on the countries of origin for international students.          |
+| NAFSA Economic Value          | [Link](https://www.nafsa.org/sites/default/files/media/document/EconValue2024.pdf)      | Details on the economic contributions of international students by state.   |
+
+### Data Usage:
+The datasets will be used to:
+1. Analyze enrollment trends and visualize shifts over time.
+2. Highlight key source countries and changes in their ranking.
+3. Illustrate the economic contributions of international students across states.
+
+## Method and Medium
+
+To complete this project:
+- **Method**: Use Shorthand for interactive storytelling.
+- **Visualizations**: Create data visualizations using Tableau and Datawrapper to ensure clarity and engagement.
+- **Medium**: A web-based presentation with interactive features to engage viewers.
+
+---
+
+### Call to Action
+
+1. **For Policymakers:**
+   - Implement supportive visa policies to facilitate international student enrollment.
+   - Invest in programs promoting cultural exchange and diversity.
+
+2. **For Universities:**
+   - Develop targeted recruitment strategies for a diverse international student pool.
+   - Enhance support services to improve the academic and social experience.
+
+3. **For Individuals:**
+   - Engage with international students to foster cross-cultural understanding.
+   - Advocate for policies that support global education initiatives.
+
