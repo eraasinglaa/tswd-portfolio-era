@@ -57,10 +57,26 @@ Here's the story arc revealing how listeners might feel as I go through the stor
 
 ## Initial Sketches
 
-Sketch 1: <img width="839" alt="image" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">
-Sketch 2: <img width="839" alt="image" src="https://github.com/user-attachments/assets/6ada55ea-8729-483a-9f44-8cc1ed252f8c">
-Sketch 3: <img width="1029" alt="image" src="https://github.com/user-attachments/assets/e454ba59-5c94-45fa-a583-f9e011541e29">
-Sketch 4: <img width="1029" alt="image" src="https://github.com/user-attachments/assets/d8407f05-d018-408e-91f4-84025abb0da3">
+Sketch 1:
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">
+
+---
+
+Sketch 2:
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/6ada55ea-8729-483a-9f44-8cc1ed252f8c">
+
+---
+
+Sketch 3:
+<img width="1029" alt="image" src="https://github.com/user-attachments/assets/e454ba59-5c94-45fa-a583-f9e011541e29">
+
+---
+
+Sketch 4:
+
+<img width="1029" alt="image" src="https://github.com/user-attachments/assets/d8407f05-d018-408e-91f4-84025abb0da3">
+
+---
 
 ## The Data
 
