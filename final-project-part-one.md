@@ -38,7 +38,7 @@ This story is crucial for educators, policymakers, and communities as it sheds l
 - Projections for international student enrollment.
 - Potential impacts on U.S. higher education and economy.
 
-Here's the story arc revealing how listeners might feel as I go through the story:
+**Here's the story arc revealing how listeners might feel as I go through the story:**
 <img width="1130" alt="image" src="https://github.com/user-attachments/assets/c757bb7a-0a3e-4315-b219-23bc592ee4c0">
 
 ## Call to Action
@@ -57,26 +57,36 @@ Here's the story arc revealing how listeners might feel as I go through the stor
 
 ## Initial Sketches
 
-Sketch 1:
-<img width="839" alt="image" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">
+### Sketch 1:
+<figure>
+  <img width="839" alt="Sketch 1" src="https://github.com/user-attachments/assets/28b19b39-8f87-42fc-b893-366e9a7999b3">
+  <figcaption>This line graph illustrates the growth and fluctuations in international student enrollment in the USA over the past decade.</figcaption>
+</figure>
 
 ---
 
-Sketch 2:
-<img width="839" alt="image" src="https://github.com/user-attachments/assets/6ada55ea-8729-483a-9f44-8cc1ed252f8c">
+### Sketch 2:
+<figure>
+  <img width="839" alt="Sketch 2" src="https://github.com/user-attachments/assets/6ada55ea-8729-483a-9f44-8cc1ed252f8c">
+  <figcaption>The bar chart compares the number of international students from the top sending countries, highlighting shifts in rankings over recent years.</figcaption>
+</figure>
 
 ---
 
-Sketch 3:
-<img width="1029" alt="image" src="https://github.com/user-attachments/assets/e454ba59-5c94-45fa-a583-f9e011541e29">
+### Sketch 3:
+<figure>
+  <img width="1029" alt="Sketch 3" src="https://github.com/user-attachments/assets/e454ba59-5c94-45fa-a583-f9e011541e29">
+  <figcaption>This pie chart shows the distribution of international students across various fields of study, emphasizing popular academic disciplines.</figcaption>
+</figure>
 
 ---
 
-Sketch 4:
+### Sketch 4:
+<figure>
+  <img width="1029" alt="Sketch 4" src="https://github.com/user-attachments/assets/d8407f05-d018-408e-91f4-84025abb0da3">
+  <figcaption>This infographic summarizes the economic contributions of international students to the U.S. economy, detailing financial impacts by state.</figcaption>
+</figure>
 
-<img width="1029" alt="image" src="https://github.com/user-attachments/assets/d8407f05-d018-408e-91f4-84025abb0da3">
-
----
 
 ## The Data
 
