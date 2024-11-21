@@ -8,8 +8,8 @@
 ## Project Story Description:
 This project explores the evolving landscape of international students in the United States, highlighting their significant contributions to American higher education and the economy. With data-driven insights, we will trace enrollment trends over the past decade, identify key countries of origin, and analyze the economic impact across states. By examining factors influencing student mobility and university strategies to attract international talent, this project aims to provide a comprehensive understanding of the current challenges and future opportunities in international education. Through compelling visualizations, we'll reveal how international students enrich U.S. campuses and communities, fostering cultural exchange and global understanding.
 
-## Why Should Someone Listen to This Story?
-This story is crucial for educators, policymakers, and communities as it sheds light on the vital role international students play in enriching U.S. academic institutions and driving economic growth. Understanding these dynamics helps stakeholders make informed decisions to support international education policies that enhance cultural diversity and global competitiveness. As global mobility faces new challenges, this narrative offers valuable insights into fostering an inclusive and thriving educational environment.
+## Why Should Someone Read This Story?
+As a reader, I want to understand the impact of international students on U.S. education and the economy so that I can appreciate their contributions and advocate for policies that support global education initiatives.
 
 ## Outline
 
@@ -20,6 +20,7 @@ This story is crucial for educators, policymakers, and communities as it sheds l
 ### II. Historical Context
 - Trends in international student enrollment over the past decade.
 - Major events or policies that have influenced these trends.
+- Why international students from different countries come to USA to study?
 
 ### III. Current Landscape
 - Latest statistics on international student enrollment.
@@ -39,7 +40,8 @@ This story is crucial for educators, policymakers, and communities as it sheds l
 - Potential impacts on U.S. higher education and economy.
 
 **Here's the story arc revealing how listeners might feel as I go through the story:**
-<img width="1130" alt="image" src="https://github.com/user-attachments/assets/c757bb7a-0a3e-4315-b219-23bc592ee4c0">
+<img width="1130" alt="image" src="https://github.com/user-attachments/assets/a310fbd7-13a6-48dc-bf4b-5434b35c7040">
+
 
 ## Call to Action
 
@@ -97,12 +99,14 @@ This project relies on reliable and publicly available datasets:
 | Open Doors Enrollment Trends  | [Link](https://opendoorsdata.org/data/international-students/enrollment-trends/)         | Data on historical and current international student enrollment trends.     |
 | Open Doors Places of Origin   | [Link](https://opendoorsdata.org/data/international-students/all-places-of-origin/)      | Information on the countries of origin for international students.          |
 | NAFSA Economic Value          | [Link](https://www.nafsa.org/sites/default/files/media/document/EconValue2024.pdf)      | Details on the economic contributions of international students by state.   |
+| Open Doors Fields of Study    | [Link](https://opendoorsdata.org/data/international-students/fields-of-study/)           | Breakdown of international students across various fields of study.         |
 
 ### Data Usage:
 The datasets will be used to:
 1. Analyze enrollment trends and visualize shifts over time.
 2. Highlight key source countries and changes in their ranking.
 3. Illustrate the economic contributions of international students across states.
+4. Showcase how international students are distributed across academic fields of study.
 
 ## Method and Medium
 
