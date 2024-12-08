@@ -6,7 +6,7 @@
 # Changes made since Part II
 Since completing Part II of the final project, several significant changes have been implemented to enhance the story and improve its impact on the target audience of policymakers:
 
-1. *Refined focus:* The narrative has been streamlined to emphasize the economic and academic contributions of international students, particularly from China and India, as these countries account for 54% of international students in the USA.
+1. Refined focus: The narrative has been streamlined to emphasize the economic and academic contributions of international students, particularly from China and India, as these countries account for 54% of international students in the USA.
 
 2. Enhanced data visualizations: The enrollment trends graph has been improved to highlight key fluctuations caused by global events and policy changes. A new visualization showcasing the economic impact of international students by state has been added to provide a more compelling argument for policymakers.
 
