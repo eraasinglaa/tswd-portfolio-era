@@ -24,6 +24,7 @@ This page is linking to a new Markdown document called `critique-by-design.md`.
 
 ## Final project
 **Story : Global Minds, American Dreams: The Journey of International Students in the USA**
+
 International students play a crucial role in shaping the landscape of higher education in the United States. Their contributions extend far beyond the classroom, impacting the economy, research, and cultural diversity on campuses nationwide. Let's explore how international student enrollment has evolved over the years, reflecting changing global dynamics and the enduring appeal of U.S. education.
 
 These are 3 parts of my final project:
