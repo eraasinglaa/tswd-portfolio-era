@@ -1,14 +1,12 @@
 | [home page](https://eraasinglaa.github.io/tswd-portfolio-era/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-[Shortahnd link - Global Minds, American Dreams: The Journey of International Students in the USA ](https://carnegiemellon.shorthandstories.com/the-journey-of-international-students-in-the-usa/index.html)
-
-Text here!
+[Shorthand link - Global Minds, American Dreams: The Journey of International Students in the USA ](https://carnegiemellon.shorthandstories.com/the-journey-of-international-students-in-the-usa/index.html)
 
 # Changes made since Part II
 Since completing Part II of the final project, several significant changes have been implemented to enhance the story and improve its impact on the target audience of policymakers:
 
-1. Refined focus: The narrative has been streamlined to emphasize the economic and academic contributions of international students, particularly from China and India, as these countries account for 54% of international students in the USA.
+1. *Refined focus:* The narrative has been streamlined to emphasize the economic and academic contributions of international students, particularly from China and India, as these countries account for 54% of international students in the USA.
 
 2. Enhanced data visualizations: The enrollment trends graph has been improved to highlight key fluctuations caused by global events and policy changes. A new visualization showcasing the economic impact of international students by state has been added to provide a more compelling argument for policymakers.
 
@@ -79,6 +77,3 @@ Here's a table of references in markdown format for the sources you've used in y
 | NAFSA: Association of International Educators - Advocacy Center | [https://www.nafsa.org/policy-and-advocacy/what-we-stand-for/policy-recommendations-welcoming-international-students-and-scholars](https://www.nafsa.org/policy-and-advocacy/what-we-stand-for/policy-recommendations-welcoming-international-students-and-scholars) |
 | U.S. Department of State's EducationUSA network | [https://educationusa.state.gov/](https://educationusa.state.gov/) |
 | Institute of International Education - Open Doors Report | [https://opendoorsdata.org/](https://opendoorsdata.org/) |
-
-# Final thoughts
-> Reflecting on the process of creating this project on international students in the USA, I've gained valuable insights into data visualization and storytelling. The journey from initial concept to final presentation has been both challenging and rewarding. One of the most significant learnings was the importance of balancing quantitative data with personal narratives to create a compelling story. I found myself particularly excited about showcasing the economic and cultural contributions of international students, as these aspects often go unrecognized. However, I wish I had more time to delve deeper into the long-term impacts of international education on diplomatic relations and global understanding. If given the opportunity, I would like to explore more individual success stories of international students who have made significant contributions to their fields after graduating. Overall, this project has reinforced the power of data visualization in communicating complex issues and the importance of tailoring content to a specific audience, in this case, policymakers.
