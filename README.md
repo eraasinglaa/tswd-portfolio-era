@@ -6,9 +6,6 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi!  I am Era! I want to be a Product Manager. I think one of the skills you require as a Product Manager is story telling. And what's even better is if you can back it up with data. So, here I am trying to learn how to tell stories with data!
 
-![IMG_8527](https://github.com/user-attachments/assets/aabdfd52-bcd8-451f-8d0e-402b58f60dee)
-
-
 # What I hope to learn
 
 1. Effectively Communicate Data Insights: Learn how to present complex data in a way that is understandable and engaging for any audience. 
